@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Project Uts</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Toni Rizky Awalludin</string>
+    <string name="nav_header_subtitle">10117150</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="home_second">Home Second</string>
+
+    <string name="music">Music</string>
+    <string name="profile">Profile</string>
+    <string name="daily">Daily</string>
+    <string name="about">Lahir di Subang pada hari rabu 11 november 1998, anak pertama dari sebuah keluarga kecil dan bahagia, bersekolah di kota subang
+    dari sejak Sekolah dasar, hingga sekolah menengah kejuruan, di SMK saya masuk jurusan RPL (Rekayasa Perangkat Lunak) SMK NEGERI 1 SUBANG, di sekolah
+    saya sempat mengikuti beberapa kali seleksi lomba WEB cuma tidak berhasil lolos, seperti DYNAMIC 11, LOMBA WEB DI UGM, dan sekarang setelah lulus
+    SMK saya melanjutkan pendidikan lebih tinggi dijurusan Teknik Informatika di salah satu perguruan tinggi di kota Bandung Universitas Komputer Indonesia</string>
+    <string name="hobi">Bersepeda, Movie, Runner</string>
+    <string name="interes">Interes : Technologi, otomotif, Sport, Games</string>
+    <string name="Cita">Cita Cita : Business Man, Software Engineering</string>
+
+    <string name="facebook">https://www.facebook.com/</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="judul">judul</string>
+    <string name="isi">isi</string>
+    <string name="next">next</string>
+</resources>
